@@ -1,8 +1,8 @@
 {
   "name": "dfx-terminal-commands",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dfx terminal commands for TypeScript",
-  "repository": "dfx-terminal-commands-ts",
+  "repository": "ktry1/dfx-terminal-commands-ts",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
