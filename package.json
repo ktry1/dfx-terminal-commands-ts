@@ -1,0 +1,19 @@
+{
+  "name": "dfx-terminal-commands",
+  "version": "1.0.2",
+  "description": "dfx terminal commands for TypeScript",
+  "repository": "dfx-terminal-commands-ts",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dfx",
+    "TypeScript"
+  ],
+  "author": "Kyrylo Troiak",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.1.0"
+  }
+}
